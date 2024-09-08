@@ -10,4 +10,4 @@ Place it in the mods folder of your Minecraft directory.
 Launch Minecraft with the mod installed.
 Notes
 Ensure you’re using Minecraft version 1.20 for compatibility.
-For any issues or suggestions, please open an issue on this repository.
+For any issues or suggestions, please open an issue on this repository.s
