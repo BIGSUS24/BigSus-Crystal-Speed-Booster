@@ -11,3 +11,5 @@ Launch Minecraft with the mod installed.
 Notes
 Ensure you’re using Minecraft version 1.20 for compatibility.
 For any issues or suggestions, please open an issue on this repository.s
+
+UPDATE WORKS ON 1.21 Add mibLib With the mods
